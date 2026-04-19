@@ -1,6 +1,6 @@
 """
             The New York Times site was not cooperating and I used a different website to initally
-            figure how how to do the homework.
+            figure how to do the homework.
             Last Revised 4/12/2026
 """
 
